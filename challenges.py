@@ -81,7 +81,7 @@
 
 #------------------------------------------------------------------
 
-# CoinFlipper Game (dd.mm.yy)(05.06.2022)
+# CoinFlipper Game (dd.mm.yy)(05.06.2022) Day 4
 # print('''
 #            __-----__
 #       ..;;;--'~~~`--;;;..
@@ -111,7 +111,7 @@
 
 #------------------------------------------------------------------
 
-# Who will pay the bill game. (dd.mm.yy)(06.06.2022)
+# Who will pay the bill game. (dd.mm.yy)(06.06.2022) Day 5
 # print("Welcome to the Who will pay? V1 Game.")
 # import random
 # given_names = input("Gime me some names seperated by a comma please. ")
@@ -120,7 +120,7 @@
 # print(names1)
 
 #------------------------------------------------------------------
-# Who will pay the bill game. (dd.mm.yy)(06.06.2022)
+# Who will pay the bill game. (dd.mm.yy)(06.06.2022) Day 6
 # print("Welcome to the Who will pay? V2 Game.")
 # print("The check is 888tl")
 #
@@ -132,7 +132,7 @@
 # print(who_will_pay + " will pay the bill. Sorry mate.")
 
 #------------------------------------------------------------------
-# New Challenge (dd.mm.yy)(12.09.22)
+# New Challenge (dd.mm.yy)(12.09.22) Day 7
 
 
 
