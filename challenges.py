@@ -1,4 +1,4 @@
-# Band name generator (dd.mm.yy)(05.06.2022)
+# Band name generator (dd.mm.yy)(05.06.2022) Day 1
 # print("Welcome to band name generator.")
 # animal = str(input("what is your favorite animal?: "))
 # color = str(input("what is your favorite color?: "))
@@ -9,7 +9,7 @@
 
 #------------------------------------------------------------------
 
-# Tip calculator (dd.mm.yy)(05.06.2022)
+# Tip calculator (dd.mm.yy)(05.06.2022) Day 2
 # print("Welcome to the tip calculator.")
 #
 # payintotal = float(input("Please enter the bill:"))
@@ -32,7 +32,7 @@
 
 #------------------------------------------------------------------
 
-# Treasure Game (dd.mm.yy)(05.06.2022)
+# Treasure Game (dd.mm.yy)(05.06.2022) Day 3
 # print("Welcome to the Treasure Game.")
 # print('''
 # *******************************************************************************
@@ -130,6 +130,9 @@
 # who_will_pay = random.choice(validnames)
 #
 # print(who_will_pay + " will pay the bill. Sorry mate.")
+
+#------------------------------------------------------------------
+# New Challenge (dd.mm.yy)(12.09.22)
 
 
 
