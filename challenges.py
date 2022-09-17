@@ -132,7 +132,7 @@
 # print(who_will_pay + " will pay the bill. Sorry mate.")
 
 #------------------------------------------------------------------
-# New Challenge (dd.mm.yy)(12.09.22) Day 7
+# Solution Rock Paper Scissors (dd.mm.yy)(16.09.22) Day 7
 
 
 
