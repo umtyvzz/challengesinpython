@@ -1,3 +1,5 @@
+import random
+
 print("Welcome to the game Who is paying?")
 
 # import random
@@ -5,5 +7,6 @@ print("Welcome to the game Who is paying?")
 names_string = input("Give me everyone's names, seperated by a comma.")
 
 names = names_string.split(", ")
-
-print(names)
+x = random.randint(0, len(names) - 1)
+y = names[x]
+print(y)
