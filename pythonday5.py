@@ -1,3 +1,1 @@
-print("kasmcksmcakmcs   ")
-print("wowowowowowo")
-print("hehehehehe")
+print("given")
