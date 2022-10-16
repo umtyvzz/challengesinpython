@@ -1,2 +1,1 @@
-print("given")
-print("lol")
+print("no need")
