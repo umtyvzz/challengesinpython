@@ -1,1 +1,1 @@
-print("lololo")
+print("salak sinem")
