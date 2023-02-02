@@ -1,1 +1,1 @@
-print("salak sinem")
+print("umut")
